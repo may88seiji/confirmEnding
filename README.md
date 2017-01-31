@@ -1,2 +1,4 @@
-# confirmEnding
-文章の最後の文字とtargetの文字の正誤判定する
+##考え方
+targetの文字数を取得する
+targetLengthの数だけ、strの文末からsliceで変数strEndにいれる。
+strEndとtargetを比較する。
