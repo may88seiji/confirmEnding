@@ -1,0 +1,2 @@
+# confirmEnding
+文章の最後の文字とtargetの文字の正誤判定する
